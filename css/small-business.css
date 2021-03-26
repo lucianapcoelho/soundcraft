@@ -1,0 +1,92 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template/small-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.indigo-theme {
+  background-color: #7c9fc2;
+  border: none;
+}
+
+.pay {
+  background-color: #003087;
+  border: none;
+}
+
+.pal {
+  background-color: #009cde;
+  border: none;
+}
+
+.footer-bg {
+  background-color: #003087;
+}
+
+.soft-blue {
+  color: #7c9fc2;
+}
+
+.dark-blue {
+  color: #0c3d6a;
+}
+
+.indigo-font-color {
+  /* color: #0C3D6A !important; */
+  color: #7c9fc2 !important;
+}
+
+.indigo-hover button:hover {
+  background-color: #0c3d6a;
+  background-color: #ffffff !important;
+}
+
+/* .bg-custom {
+      background-color: rgb(46, 46, 46) !important;
+    } */
+
+.btn-primary:hover {
+  background-color: #0c3d6a !important;
+  background-color: #7c9fc2;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background: #7c9fc2;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+body .centerLogo {
+  position: relative;
+  /* top: 8%; */
+  left: 1%;
+  margin-right: 10%;
+}
+
+a {
+  font-weight: 400;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.1em;
+  color: black;
+}

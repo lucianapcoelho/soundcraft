@@ -1,0 +1,75 @@
+.container {
+  max-width: 960px;
+}
+.indigo-theme {
+  background-color: #7c9fc2;
+  border: none;
+}
+
+.pay {
+  background-color: #003087;
+  border: none;
+}
+
+.pal {
+  background-color: #009cde;
+  border: none;
+}
+
+.soft-blue {
+  color: #7c9fc2;
+}
+
+.dark-blue {
+  color: #0c3d6a;
+}
+
+.indigo-font-color {
+  /* color: #0C3D6A !important; */
+  color: #7c9fc2 !important;
+}
+
+.indigo-hover button:hover {
+  background-color: #0c3d6a;
+  background-color: #ffffff !important;
+}
+
+.btn-primary:hover {
+  background-color: #0c3d6a !important;
+  background-color: #7c9fc2;
+}
+
+.big {
+  font-size: 4em;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background: #7c9fc2;
+}
+
+.hover {
+  font-size: 0.9em;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.lh-condensed {
+  line-height: 1.25;
+}
